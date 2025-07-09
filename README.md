@@ -1,11 +1,11 @@
-# 🌟 Baikani Akhila — Portfolio Website
+#  Baikani Akhila — Portfolio Website
 
 Welcome to my personal portfolio project!  
 This website highlights who I am — my **skills, education, projects, and professional journey** — all in one place. It's designed to help recruiters, collaborators, and tech enthusiasts explore my work and get in touch easily.
 
 ---
 
-## 📁 Overview
+##  Overview
 
 This is a responsive and interactive portfolio website built using HTML, CSS, and JavaScript.  
 It includes sections like:
@@ -19,7 +19,7 @@ It includes sections like:
 
 ---
 
-## 💡 Why I Built This
+##  Why I Built This
 
 To showcase my expertise in:
 - Front-end web development  
@@ -31,7 +31,7 @@ This portfolio is a reflection of my journey as a B.Tech student in Artificial I
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 
 The project is developed using the following technologies:
 
@@ -43,11 +43,11 @@ The project is developed using the following technologies:
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 You can view or modify this project locally:
 
-### 🖥️ Set Up Locally
+###  Set Up Locally
 1. Clone the repository to your computer:
    ```bash
    git clone https://github.com/baikaniakhila2004/akhila-portfolio.git
